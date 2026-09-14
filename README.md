@@ -17,7 +17,8 @@ data that are not yours.
 
 ## What we do
 
-- We acknowledge a report within three working days.
+- We read every report and answer as soon as we can. We cannot
+  promise a fixed time.
 - We keep you informed while we investigate and fix.
 - We fix confirmed issues as quickly as their severity warrants, and we
   tell you when the fix has shipped.
